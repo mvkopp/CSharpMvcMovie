@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maelavennec/Projects/MvcMovie/MvcMovie/MvcMovie.csproj": {}
+    "/Users/maelavennec/Documents/University/M2S1/DOTNET/CSharpMvcMovie/MvcMovie/MvcMovie.csproj": {}
   },
   "projects": {
-    "/Users/maelavennec/Projects/MvcMovie/MvcMovie/MvcMovie.csproj": {
+    "/Users/maelavennec/Documents/University/M2S1/DOTNET/CSharpMvcMovie/MvcMovie/MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maelavennec/Projects/MvcMovie/MvcMovie/MvcMovie.csproj",
+        "projectUniqueName": "/Users/maelavennec/Documents/University/M2S1/DOTNET/CSharpMvcMovie/MvcMovie/MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "/Users/maelavennec/Projects/MvcMovie/MvcMovie/MvcMovie.csproj",
+        "projectPath": "/Users/maelavennec/Documents/University/M2S1/DOTNET/CSharpMvcMovie/MvcMovie/MvcMovie.csproj",
         "packagesPath": "/Users/maelavennec/.nuget/packages/",
-        "outputPath": "/Users/maelavennec/Projects/MvcMovie/MvcMovie/obj/",
+        "outputPath": "/Users/maelavennec/Documents/University/M2S1/DOTNET/CSharpMvcMovie/MvcMovie/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maelavennec/.config/NuGet/NuGet.Config"

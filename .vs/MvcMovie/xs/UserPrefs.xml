@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6E762A13-6273-47AF-B21C-16769A0BEAA1}|Default">
+  <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="MvcMovie/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="MvcMovie/Views/HelloWorld/Index.cshtml" Line="1" Column="1" />
+      <File FileName="MvcMovie/Views/HelloWorld/Welcome.cshtml" Line="1" Column="1" />
+      <File FileName="MvcMovie/Views/Shared/_Layout.cshtml" Line="24" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvcMovie" expanded="True">
+            <Node name="MvcMovie" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Movies" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
