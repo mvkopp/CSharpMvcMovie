@@ -42,9 +42,18 @@ namespace MvcMovie.Controllers
         };
 
         // GET: Movies
-        public ActionResult Index()
+        public ActionResult Index(string searchString)
         {
-            return View(Movies);
+
+            var movies = from m in Movies
+                         select m;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                movies = movies.Where(s => s.Title.Contains(searchString));
+            }
+
+            return View(movies);
         }
 
         // GET: Movies/Details/5
